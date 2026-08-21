@@ -13,7 +13,7 @@
 
   <br />
 
-  [Live Demo](https://ibrahimaryan.github.io/web-portfolio-vue/) • [📖 Dokumentasi Project](document.md) • [💬 Contact Me](#-contact--socials)
+  [Live Demo](https://ibrahimaryan.github.io/web-portfolio-vue/) • [Dokumentasi Project](document.md) • [Contact Me](#-contact--socials)
 
 </div>
 
@@ -135,5 +135,5 @@ web-portfolio-vue/
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Ibrahim Aryan Faridzi</sub>
+  <sub>Built by Ibrahim Aryan Faridzi</sub>
 </div>
